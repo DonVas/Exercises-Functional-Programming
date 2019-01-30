@@ -3,23 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Action Point", "Problem 1. Action Point\Problem 1. Action Point.csproj", "{E1AA5431-8916-482D-B62C-68936AC87EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1. Action Point", "Problem 1. Action Point\Problem 1. Action Point.csproj", "{E1AA5431-8916-482D-B62C-68936AC87EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Knights of Honor", "Problem 2. Knights of Honor\Problem 2. Knights of Honor.csproj", "{8468E759-4F31-445A-B5EE-2108C3BF53CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2. Knights of Honor", "Problem 2. Knights of Honor\Problem 2. Knights of Honor.csproj", "{8468E759-4F31-445A-B5EE-2108C3BF53CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Custom Min Function", "Problem 3. Custom Min Function\Problem 3. Custom Min Function.csproj", "{3585848B-6503-435D-BECE-B415D5A62011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3. Custom Min Function", "Problem 3. Custom Min Function\Problem 3. Custom Min Function.csproj", "{3585848B-6503-435D-BECE-B415D5A62011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Find Evens or Odds", "Problem 4. Find Evens or Odds\Problem 4. Find Evens or Odds.csproj", "{9DDFDC31-CD21-434F-B2A5-5B210102130E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4. Find Evens or Odds", "Problem 4. Find Evens or Odds\Problem 4. Find Evens or Odds.csproj", "{9DDFDC31-CD21-434F-B2A5-5B210102130E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Applied Arithmetics", "Problem 5. Applied Arithmetics\Problem 5. Applied Arithmetics.csproj", "{F96FFFE0-3226-48C2-90C7-3DD3E7E4E8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 5. Applied Arithmetics", "Problem 5. Applied Arithmetics\Problem 5. Applied Arithmetics.csproj", "{F96FFFE0-3226-48C2-90C7-3DD3E7E4E8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Reverse and Exclude", "Problem 6. Reverse and Exclude\Problem 6. Reverse and Exclude.csproj", "{BC717794-CCCE-429A-BEA0-B16831FAE46C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6. Reverse and Exclude", "Problem 6. Reverse and Exclude\Problem 6. Reverse and Exclude.csproj", "{BC717794-CCCE-429A-BEA0-B16831FAE46C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Predicate for Names", "Problem 7. Predicate for Names\Problem 7. Predicate for Names.csproj", "{8EF1D98C-73C9-4C50-830A-319E379A375A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 7. Predicate for Names", "Problem 7. Predicate for Names\Problem 7. Predicate for Names.csproj", "{8EF1D98C-73C9-4C50-830A-319E379A375A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Custom Comparator", "Problem 8. Custom Comparator\Problem 8. Custom Comparator.csproj", "{B4C58BED-F5D8-4C15-9477-E5A4072FEEE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 8. Custom Comparator", "Problem 8. Custom Comparator\Problem 8. Custom Comparator.csproj", "{B4C58BED-F5D8-4C15-9477-E5A4072FEEE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. List of Predicates", "Problem 9. List of Predicates\Problem 9. List of Predicates.csproj", "{A6BDF5CE-432A-4FA6-B8BC-D490378C0497}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 9. List of Predicates", "Problem 9. List of Predicates\Problem 9. List of Predicates.csproj", "{A6BDF5CE-432A-4FA6-B8BC-D490378C0497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 10. Predicate Party!", "Problem 10. Predicate Party!\Problem 10. Predicate Party!.csproj", "{3D2606E3-DE8A-4256-B953-F85CA40961C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 13. TriFunction", "Problem 13. TriFunction\Problem 13. TriFunction.csproj", "{C3BB026B-93E7-4D92-9FF2-4B1482C2FB54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{A6BDF5CE-432A-4FA6-B8BC-D490378C0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6BDF5CE-432A-4FA6-B8BC-D490378C0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6BDF5CE-432A-4FA6-B8BC-D490378C0497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2606E3-DE8A-4256-B953-F85CA40961C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2606E3-DE8A-4256-B953-F85CA40961C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2606E3-DE8A-4256-B953-F85CA40961C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2606E3-DE8A-4256-B953-F85CA40961C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BB026B-93E7-4D92-9FF2-4B1482C2FB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BB026B-93E7-4D92-9FF2-4B1482C2FB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BB026B-93E7-4D92-9FF2-4B1482C2FB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BB026B-93E7-4D92-9FF2-4B1482C2FB54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
